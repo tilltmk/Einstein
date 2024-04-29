@@ -1,8 +1,10 @@
 # Einsteinish (http://einsteinish.com)
-----
-![alt text](https://github.com/Einsteinish/Einstein/blob/master/static/img/Blackhole.jpg)
 
 We are developing knowledge library for learning Qunatum Universe. The best resources to learn something on the web are scattered and we may waste lot of time. We aim to elinimate this by recommending the best resources.
+
+---
+
+![alt text](https://github.com/Einsteinish/Einstein/blob/master/static/img/Blackhole.jpg)
 
 ---
 
@@ -23,6 +25,7 @@ We are developing knowledge library for learning Qunatum Universe. The best reso
 + Tracks will be introduced to give users ability to create content for the their audiences and distribute them.
 + Users can follow other interesting users.
 
+---
 
 ## Tools/Apps Used
 
@@ -38,12 +41,12 @@ We are developing knowledge library for learning Qunatum Universe. The best reso
 
 *For full requirements, see requirment.txt*
 
+---
 
 ## Install
 
 + See INSTALL.md for full installation instructions.
 + http://www.einsteinish.com
-
 
 ## Contact
 
@@ -53,9 +56,9 @@ We are developing knowledge library for learning Qunatum Universe. The best reso
 
 This project is licensed under [MIT License](http://mit-license.org). See LICENSE.txt
 
-## Note
+---
 
-## Notes & Updates
+## Note
 
 + **Error Handling:** Ensure `ip-address width = 64` to avoid data truncation errors.
 + **Comments:** Disqus comment tool requires registration.
@@ -67,7 +70,6 @@ This project is licensed under [MIT License](http://mit-license.org). See LICENS
 + **Tutorials:** 
   + [Errors and Fixes for einsteinish.com](http://www.bogotobogo.com/python/Django/Python-Django-1.8-collection-of-errors-and-fixes.php)
   + [Using Elasticsearch with einsteinish.com](http://www.bogotobogo.com/python/Django/Python-Django-Haystack-Elasticsearch.php)
-
 
 ## To Do
 
